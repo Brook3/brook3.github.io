@@ -9,7 +9,7 @@
     width: 50%;
     height: 100%;
     background-color: black;
-    /* opacity: 0.5; */
+    opacity: 0.8;
 }
 #dwm_terminal .terminal_click {
     margin-left: 10px;
