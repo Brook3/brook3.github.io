@@ -2,11 +2,12 @@
     position: absolute;
     width: 100%;
     height: 100%;
+    font-size: 18pt;
 }
 #dwm_terminal {
     position: relative;
     float: left;
-    width: 50%;
+    width: 100%;
     height: 100%;
     background-color: black;
     opacity: 0.8;
@@ -66,12 +67,14 @@
     color: red;
 }
 #dwm_card {
+    display: none;
     position: relative;
     float: left;
     width: 50%;
     height: 50%;
 }
 #dwm_tips {
+    display: none;
     position: relative;
     float: left;
     width: 50%;
